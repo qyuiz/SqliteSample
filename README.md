@@ -4,3 +4,12 @@ CREATE TABLE users (
     age INTEGER
 );
 
+```
+data/data/
+```
+
+```
+user/user/0
+```
+
+https://teratail.com/questions/200403
